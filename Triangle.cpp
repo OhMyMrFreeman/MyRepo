@@ -14,6 +14,8 @@ string types[5] = {"остроугольный", "с тупым углом", "равносторонний", "прямоуго
 
 //Kommentari
 //Kommentari2
+//Kommentari3
+//Kommentari4
 
 class Tboard{
 	public:
