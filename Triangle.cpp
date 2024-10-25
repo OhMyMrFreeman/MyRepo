@@ -13,6 +13,7 @@ using namespace std;
 string types[5] = {"остроугольный", "с тупым углом", "равносторонний", "прямоугольный", "равнобедренный"};
 
 //Kommentari
+//Kommentari2
 
 class Tboard{
 	public:
